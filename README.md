@@ -1,4 +1,4 @@
-# Vidyuth 2K25 🎉
+<h1 align="center">Vidyuth 2K25 🎉</h1>
 
 <div align="center">
 
